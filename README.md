@@ -11,7 +11,7 @@ Sistema de Gestión de Turnos Médicos Básicos
 
 ## Descripción del Proyecto
 
-Este proyecto consiste en el desarrollo de un sistema web simple para la gestión de turnos médicos.  
+Este proyecto consiste en el desarrollo de un sistema web simple para la gestión de turnos médicos.
 
 El sistema permitirá a los pacientes:
 
