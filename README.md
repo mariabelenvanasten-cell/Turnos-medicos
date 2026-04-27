@@ -132,7 +132,7 @@ Tablas principales del sistema:
 - Belén Van Asten
 - Franco Barcellone
 - Mauricio Rebeque
-- Ailen Quaglino
+
 
 ## Carrera
 Tecnicatura Universitaria en Programación  
